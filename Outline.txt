@@ -1,0 +1,12 @@
+1) Overview: My app will let users to post pictures, chat and post likes. 
+Users will find useful features similar to Instagram, Facebook and other popular apps.
+My idea came from using popular apps that I use everyday.
+
+2) Features: Users will be able to create account. Search other users. Create posts,
+Like posts and Send messages.
+
+3) I am planning to use JS, React, HTML, CSS, Firebase.
+
+4) I will have to Google a lot for my project and drink a lot of coffee.
+
+5) I am not sure why do I need Trello.
